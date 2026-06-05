@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Active%20Directory-Azure%20Lab-blue?style=for-the-badge&logo=microsoftazure" alt="Active Directory Azure Lab">
+</p>
+
+# Configuring On-Premises Active Directory within Azure VMs
 # Configuring On-Premises Active Directory within Azure VMs
 
 ## Overview
