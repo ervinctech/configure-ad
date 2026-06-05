@@ -3,7 +3,6 @@
 </p>
 
 # Configuring On-Premises Active Directory within Azure VMs
-# Configuring On-Premises Active Directory within Azure VMs
 
 ## Overview
 
