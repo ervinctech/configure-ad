@@ -1,93 +1,56 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Active%20Directory-Azure%20Lab-blue?style=for-the-badge&logo=microsoftazure" alt="Active Directory Azure Lab">
+<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-# Configuring On-Premises Active Directory within Azure VMs
+<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
+This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
 
-## Overview
 
-This project demonstrates the deployment and configuration of an Active Directory environment using Microsoft Azure Virtual Machines. The lab includes creating a Domain Controller, configuring Active Directory Domain Services (AD DS), joining a client machine to the domain, and managing users and organizational units.
+<h2>Video Demonstration</h2>
 
-## Technologies Used
+- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
 
-- Microsoft Azure
-- Active Directory Domain Services (AD DS)
-- Windows Server
-- Windows 10
-- Remote Desktop Protocol (RDP)
+<h2>Environments and Technologies Used</h2>
 
-## Operating Systems Used
+- Microsoft Azure (Virtual Machines/Compute)
+- Remote Desktop
+- Active Directory Domain Services
+- PowerShell
+
+<h2>Operating Systems Used </h2>
 
 - Windows Server 2022
-- Windows 10 Pro
+- Windows 10 (21H2)
 
-## Skills Demonstrated
+<h2>High-Level Deployment and Configuration Steps</h2>
 
-- Active Directory Administration
-- User and Group Management
-- Organizational Unit (OU) Configuration
-- Domain Management
-- DNS Configuration
-- Azure Virtual Machines
-- Remote Desktop Administration
+- Step 1
+- Step 2
+- Step 3
+- Step 4
 
-## Lab Objectives
+<h2>Deployment and Configuration Steps</h2>
 
-- Create Azure Virtual Machines
-- Install Active Directory Domain Services
-- Promote Server to Domain Controller
-- Configure DNS
-- Join Client Computer to Domain
-- Create Users and Organizational Units
-- Verify Domain Functionality
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
 
-## Deployment Steps
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
 
-### Step 1: Create Azure Virtual Machines
-
-Created a Windows Server VM to function as the Domain Controller and a Windows 10 VM to function as a client workstation.
-
-![image](INSERT_SCREENSHOT_HERE)
-
-### Step 2: Install Active Directory Domain Services
-
-Installed the AD DS role and promoted the server to a Domain Controller.
-
-![image](INSERT_SCREENSHOT_HERE)
-
-### Step 3: Configure DNS
-
-Verified DNS settings and ensured the client machine could locate the Domain Controller.
-
-![image](INSERT_SCREENSHOT_HERE)
-
-### Step 4: Join Client Computer to Domain
-
-Joined the Windows 10 client machine to the newly created domain.
-
-![image](INSERT_SCREENSHOT_HERE)
-
-### Step 5: Create Organizational Units
-
-Created Organizational Units to organize users and administrative resources.
-
-![image](INSERT_SCREENSHOT_HERE)
-
-### Step 6: Create User Accounts
-
-Created test users and assigned them to appropriate Organizational Units.
-
-![image](INSERT_SCREENSHOT_HERE)
-
-### Step 7: Verify Authentication
-
-Verified domain login functionality using newly created user accounts.
-
-![image](INSERT_SCREENSHOT_HERE)
-
-## What I Learned
-
-- How Active Directory manages users and resources within a domain environment.
-- The role DNS plays in Active Directory functionality.
-- How to create and manage Organizational Units and user accounts.
-- Basic Windows Server administration within Azure.
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
